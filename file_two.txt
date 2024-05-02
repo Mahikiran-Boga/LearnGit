@@ -1,1 +1,2 @@
 more example text
+Master feature Added in file 2
