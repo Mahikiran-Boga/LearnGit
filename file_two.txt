@@ -1,2 +1,2 @@
 more example text
-Master feature Added in file 2
+Branch feature Added in FILE_TWO
